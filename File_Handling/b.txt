@@ -1,0 +1,6 @@
+	while(fscanf(f1,"%c",&ch)!=EOF)
+	{
+	     if(ch='\n')
+	     l++;
+	}
+	

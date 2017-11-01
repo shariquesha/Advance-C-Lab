@@ -1,0 +1,33 @@
+Name		     Address			          Age	  Blood
+Abdul			22 1 B,Baker street			22		1
+			New Delhi						
+Abdullah		22 1 B,Baker street		     	20		2
+			New Delhi		
+Amit			22 1 B,Baker street			20		3
+			New Delhi								
+Anamta		22 1 B,Baker street			19		4
+			New Delhi							
+Asad			22 1 B,Baker street			23        	3
+			New Delhi
+Ahsan			22 1 B,Baker street			22		2
+			New Delhi
+Faizan		22 1 B,Baker street			22		1
+			New Delhi
+Sharique		22 1 B,Baker street			22		4
+			New Delhi	
+Nasruddin		22 1 B,Baker street			22		2
+			New Delhi
+Saddam		22 1 B,Baker street			21		1
+			New Delhi
+Satyam		22 1 B,Baker street			19		4
+			New Delhi
+Arshad		22 1 B,Baker street			20		2
+			New Delhi
+Adeela		22 1 B,Baker street			19		1
+			New Delhi
+Saniya		22 1 B,Baker street			19		3
+			New Delhi
+Sharmin		22 1 B,Baker street			19		1
+			New Delhi
+Maseera		22 1 B,Baker street			19		4
+			New Delhi

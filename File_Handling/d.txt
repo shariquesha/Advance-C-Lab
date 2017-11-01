@@ -1,0 +1,2 @@
+Some attributes are defined globally and can be used on any element, while others are defined for specific elements only. All attributes have a name and a value and look like as shown below in the example. 
+

@@ -1,0 +1,20 @@
+OUTPUT :- 
+Enter number of parts : 6 
+Enter lower and upper limits : 0.2 1.4 
+x y 
+0.20000 3.02951 
+0.40000 2.79753 
+0.60000 2.89759 
+0.80000 3.16604 
+1.00000 3.55975 
+1.20000 4.06983 
+1.40000 4.70418 
+result = 
+Some attributes are defined 
+globally and can be used on any element, 
+while others are defined 
+for specific elements only. 
+All attributes have a n
+ame and a value and look l
+ike as shown below in the example. 
+
